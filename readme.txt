@@ -1,4 +1,3 @@
-./DOCS/MENU.md
 ./DOCS/ABOUT.md
 ./DOCS/DOCS.md
 ./DOCS/CENZURA.md
