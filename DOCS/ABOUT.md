@@ -3,6 +3,11 @@
 
 www.censura.pl
 
+Projekt badawczy mający na celu zrozumienie zasady działania cenzury w sieci, stosowane przez takie instytucje i organizacje jak:
++ ABW
++ CERT
++ NASK
++ EXATEL
 
 + [Repozytorium plików git censura-pl/www: bash.censura.pl](https://github.com/censura-pl/www)
 + [Projekt grabWHOIS](https://github.com/grabWHOIS)
