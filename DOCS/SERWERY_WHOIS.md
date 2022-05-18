@@ -1,12 +1,10 @@
 
-## Serwery WHOIS [<span style='font-size:20px;'>&#x270D;</span>](https://github.com/censura-pl/www/edit/main/DOCS/SERWERY_WHOIS.md)
+## Lista Serwerów WHOIS [<span style='font-size:20px;'>&#x270D;</span>](https://github.com/censura-pl/www/edit/main/DOCS/SERWERY_WHOIS.md)
 
-Lista Serwerów:
-
-+ [nirsoft.net/whois-servers.txt](http://www.nirsoft.net/whois-servers.txt)
+[nirsoft.net/whois-servers.txt](http://www.nirsoft.net/whois-servers.txt)
 Maintained by Nir Sofer
 This servers list if freely available for any use and without any restriction.
-For more information: http://www.nirsoft.net/whois_servers_list.html
+For more information: [WHOIS servers list for all domain types](http://www.nirsoft.net/whois_servers_list.html)
 Last updated on 16/02/2016
 
     
