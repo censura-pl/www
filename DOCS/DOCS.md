@@ -1,5 +1,5 @@
 
-## DOCS [<span style='font-size:20px;'>&#x270D;</span>](https://github.com/censura-pl/www/edit/main/DOCS/DOCS.md)
+## Więcej informacji [<span style='font-size:20px;'>&#x270D;</span>](https://github.com/censura-pl/www/edit/main/DOCS/DOCS.md)
 
 Artykuły na temat bezpieczeństwa:
 
