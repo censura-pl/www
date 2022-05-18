@@ -1,5 +1,13 @@
 ## Statusy domen globalnych [<span style='font-size:20px;'>&#x270D;</span>](https://github.com/censura-pl/www/edit/main/DOCS/STATUSY.md)
 
+Jak sprawdzić?
+
++ [RFC 3912: WHOIS Protocol Specification](https://www.rfc-editor.org/rfc/rfc3912)
+
+Lista Serwerów:
+
++ [nirsoft.net/whois-servers.txt](http://www.nirsoft.net/whois-servers.txt)
+
 clientHold https://icann.org/epp#clientHold
 
 clientTransferProhibited https://icann.org/epp#clientTransferProhibited

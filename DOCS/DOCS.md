@@ -10,7 +10,7 @@ Założenia projektu #Polskie5G obejmuje budowę, operowanie oraz rozwój na ter
 + synergii częstotliwości dla operatorów obecnie posiadający częstotliwości dla technologii 2G/3G/4G. Pozwoli to na łączenie częstotliwości tych operatorów z częstotliwością operatora hurtowego 5G co ma zwiększyć konkurencję na rynku.
 + [Exatel – narodowy operator 5G? - CyberDefence24](https://cyberdefence24.pl/polityka-i-prawo/exatelnarodowy-operator-5g)
 
-Artykuły na temat bezpieczeństwa:
+### Artykuły na temat bezpieczeństwa:
 
 + [Wiemy jak rząd ocenzuruje internet i wiemy jak się przed tym bronić - Zaufana Trzecia Strona](https://zaufanatrzeciastrona.pl/post/wiemy-jak-rzad-ocenzuruje-internet-i-wiemy-jak-sie-przed-tym-bronic/)
 
@@ -22,6 +22,7 @@ Rząd będzie zadowolony (przynajmniej początkowo), że zablokował, a internau
 + użyć Tora,
 + użyć lokalnego pliku hosts, zawierającego adresy IP domen z czarnej listy,
 + użyć aplikacji innej niż przeglądarka, np. programu dostarczonego przez operatora serwisu hazardowego, który będzie miał zapisane na stałe adresy IP z którymi ma się łączyć.
+
 
 ### Oficjalna lista stron www / domen znajduje się tutaj:
 
