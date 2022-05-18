@@ -1,4 +1,4 @@
-# Statusy domen globalnych
+# Statusy domen globalnych [<span style='font-size:20px;'>&#x270D;</span>](https://github.com/censura-pl/www/edit/main/DOCS/STATUSY.md)
 
 clientHold https://icann.org/epp#clientHold
 
