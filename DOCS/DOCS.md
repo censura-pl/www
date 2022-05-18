@@ -8,7 +8,7 @@ Założenia projektu #Polskie5G obejmuje budowę, operowanie oraz rozwój na ter
 + stworzenia wspólnej sieci dostępowej dla wszystkich operatorów korzystających z infrastruktury,
 + zachowanie odrębności sieci rdzeniowej i warstwy usługowej,
 + synergii częstotliwości dla operatorów obecnie posiadający częstotliwości dla technologii 2G/3G/4G. Pozwoli to na łączenie częstotliwości tych operatorów z częstotliwością operatora hurtowego 5G co ma zwiększyć konkurencję na rynku.
-+ [Exatel – narodowy operator 5G? | CyberDefence24](https://cyberdefence24.pl/polityka-i-prawo/exatelnarodowy-operator-5g)
++ [Exatel – narodowy operator 5G? - CyberDefence24](https://cyberdefence24.pl/polityka-i-prawo/exatelnarodowy-operator-5g)
 
 Artykuły na temat bezpieczeństwa:
 
