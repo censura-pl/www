@@ -4,10 +4,6 @@
 
 Projekt badawczy mający na celu zrozumienie zasady działania cenzury w sieci:
 
-+ [Documentation - docs.censura.pl](http://docs.censura.pl/)
-+ [News - blog.censura.pl](http://blog.censura.pl/)
-+ [Logo - logo.censura.pl](https://logo.censura.pl/)
-
 
 
 
