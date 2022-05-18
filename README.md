@@ -208,6 +208,8 @@ Powstają kolejne następne do monitorowania infrastruktury publicznej i prywatn
 + [Cyfrowy Skaut - Szkoła survivalu w cyberprzestrzeni](https://cyfrowyskaut.pl/)
 + [Cyberbezpieczeństwo](https://mcx.pl/produkty-i-uslugi/cyberbezpieczenstwo/)
 + [sekkura](https://sekkura.com.pl/)
+
+
 ## Statusy domen globalnych [<span style='font-size:20px;'>&#x270D;</span>](https://github.com/censura-pl/www/edit/main/DOCS/STATUSY.md)
 
 Jak sprawdzić?
