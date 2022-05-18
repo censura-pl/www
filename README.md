@@ -85,17 +85,21 @@ Pojęcia użyte w schemacie:
 
 ## Cenzura w sieci [<span style='font-size:20px;'>&#x270D;</span>](https://github.com/censura-pl/www/edit/main/DOCS/CENZURA.md)
 
-Na stronie NASK odnośnie statusów jest istotna informacja, iż te dane odnośnie statusu nie są dostępne publicznie:
-Dozwolone operacje Uwaga! Właściwości domen mogą zostać zmodyfikowane poprzez nałożenie na nie statusów. 
-Statusy powiązane z domenami nie są widoczne w bazie WHOIS.
+Na stronie NASK odnośnie statusów jest zawarta informacja, iż te statusy nie są dostępne publicznie:
+
+"Dozwolone operacje Uwaga! Właściwości domen mogą zostać zmodyfikowane poprzez nałożenie na nie statusów. 
+Statusy powiązane z domenami nie są widoczne w bazie WHOIS."
+
 + [DNS - Krajowy Rejestr Domen](https://www.dns.pl/cykl_zycia_domeny_pl)
 
-To co jest widoczne to "stan domeny"
+To co jest widoczne w przypadku domeny sprawdzanej narzędziem WHOIS to "stan domeny"
 
-Częsty stan domeny to:
+Przykładowy stan domeny to:
+
 "Trwa postępowanie wyjaśniające [REGISTERED, ze statusem clientHold/serverHold]"
 
 wyjaśnienie NASK to:
+
 "Utrzymywanie domeny zostało wstrzymane do czasu wyjaśnienia wątpliwości dotyczących współpracy z jej abonentem, np. w przypadku zaległości płatniczych u rejestratora, braku aktualizacji danych abonenta (pomimo wezwania), wykorzystywania domeny do celów zagrażających bezpieczeństwu sieci."
 
 
