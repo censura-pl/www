@@ -8,6 +8,3 @@ Projekt badawczy mający na celu zrozumienie zasady działania cenzury w sieci, 
 + NASK, [Naukowa i Akademicka Sieć Komputerowa – Państwowy Instytut Badawczy](https://pl.wikipedia.org/wiki/Naukowa_i_Akademicka_Sie%C4%87_Komputerowa_%E2%80%93_Pa%C5%84stwowy_Instytut_Badawczy)
 + CERT, [CERT Polska – Wikipedia](https://pl.wikipedia.org/wiki/CERT_Polska)
 + EXATEL, [Exatel – Wikipedia](https://pl.wikipedia.org/wiki/Exatel)
-
-
-

@@ -66,4 +66,4 @@ Ten ogólny stan opisu domeny może określać co najmniej te 5 poniższych moż
 
 Aktualnie to wszystko figuruje jako jeden status, dobrze by było znać kontekst blokady, dziś nie mamy pewności, kto złamał prawo, czy rejestrator, NASK, CERT, ABW, Exatel, itd...
 
-Stan techniczny domeny można samemu sprawdzić, ale intencja blokady jest znana tylko organizacji NASK
+Stan techniczny domeny można samemu sprawdzić, ale intencja blokady jest znana tylko organizacji NASK i organizacji zlecającej blokadę.

@@ -11,9 +11,6 @@ Projekt badawczy mający na celu zrozumienie zasady działania cenzury w sieci, 
 + EXATEL, [Exatel – Wikipedia](https://pl.wikipedia.org/wiki/Exatel)
 
 
-
-
-
 ## Więcej informacji [<span style='font-size:20px;'>&#x270D;</span>](https://github.com/censura-pl/www/edit/main/DOCS/DOCS.md)
 
 Operator narodowy, 5G w Polsce:
@@ -140,7 +137,7 @@ Ten ogólny stan opisu domeny może określać co najmniej te 5 poniższych moż
 
 Aktualnie to wszystko figuruje jako jeden status, dobrze by było znać kontekst blokady, dziś nie mamy pewności, kto złamał prawo, czy rejestrator, NASK, CERT, ABW, Exatel, itd...
 
-Stan techniczny domeny można samemu sprawdzić, ale intencja blokady jest znana tylko organizacji NASK
+Stan techniczny domeny można samemu sprawdzić, ale intencja blokady jest znana tylko organizacji NASK i organizacji zlecającej blokadę.
 
 
 ## Przydatne Narzędzia [<span style='font-size:20px;'>&#x270D;</span>](https://github.com/censura-pl/www/edit/main/DOCS/TOOLS.md)
