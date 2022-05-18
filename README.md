@@ -74,6 +74,22 @@ Pojęcia użyte w schemacie:
 
 ## Cenzura w sieci [<span style='font-size:20px;'>&#x270D;</span>](https://github.com/censura-pl/www/edit/main/DOCS/CENZURA.md)
 
+###  Zgłoszenia
+
+## Zgłoszenia do CSIRT NASK
+
++ [Zgłoś incydent - CERT.PL>_](https://incydent.cert.pl/#!/lang=pl)
+ 
+Od dnia 28 sierpnia 2018 r. zespołowi CERT Polska zostały powierzone obowiązki **CSIRT NASK** wynikające z ustawy z dnia 5 lipca 2018 r. o krajowym systemie cyberbezpieczeństwa (Dz. U. poz. 1560).
+
+Zgłoszenia:
+
++ [Zgłaszanie osoby kontaktowej do CSIRT NASK](https://incydent.cert.pl/osoba-kontaktowa#!/lang=pl).
++ [Zgłaszanie domeny internetowej służącej do wyłudzeń danych i środków finansowych](https://incydent.cert.pl/domena#!/lang=pl).
+
+
+### Blokada domeny
+
 Na stronie NASK odnośnie statusów jest zawarta informacja, iż te statusy nie są dostępne publicznie:
 
 "Dozwolone operacje Uwaga! Właściwości domen mogą zostać zmodyfikowane poprzez nałożenie na nie statusów. 
