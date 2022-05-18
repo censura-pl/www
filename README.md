@@ -130,17 +130,6 @@ Aktualnie to wszystko figuruje jako jeden status, dobrze by było znać kontekst
 Stan technicznczny domeny można samemu sprawdzić, ale intencja blokady jest znana tylko organizacji NASK
 
 
-## TODO [<span style='font-size:20px;'>&#x270D;</span>](https://github.com/censura-pl/www/edit/main/DOCS/TODO.md)
-
-
-W fazie testowania są dwa projekty:
-+ grabWHOIS
-+ WHOISarch
-
-będą powstawać następne do monitorowania infrastruktury publicznej i prywatnej
-
-
-
 ## TOOLS [<span style='font-size:20px;'>&#x270D;</span>](https://github.com/censura-pl/www/edit/main/DOCS/TOOLS.md)
 
 
@@ -179,6 +168,24 @@ and won't recover information about domains that get little or no queries.
 
 + [Domain Whois Search - Whois lookup - GetWhois.com](http://getwhois.com/)
 + [getWHOIS](https://getwhois.io/softreck.com#)
+
+
+## Planowane zmiany [<span style='font-size:20px;'>&#x270D;</span>](https://github.com/censura-pl/www/edit/main/DOCS/TODO.md)
+
+### Zawartość strony
+
++ Aktulane informacje o skali problemu
++ Wywiady z firmami rejestrującymi domeny na temat kontroli i problemów
++ Pytania do organizacji stosujących cenzurę 
++ Pytania do organizacji/osób, które są ofiarami tych działań 
+
+### Narzędzia
+
+W fazie testowania są dwa projekty:
++ grabWHOIS - bezpłatne narzedzie do pobierania danych WHOIS domeny
++ WHOISarch - odpłatne narzędzie z monitorowaniem i syngalizowaniem, pobierające WHOIS z wielu serwerów jednocześnie, kolejkowaniem list domen do sprawdze4nia
+Powstają kolejne następne do monitorowania infrastruktury publicznej i prywatnej
+
 
 # Statusy domen globalnych [<span style='font-size:20px;'>&#x270D;</span>](https://github.com/censura-pl/www/edit/main/DOCS/STATUSY.md)
 

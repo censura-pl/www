@@ -2,7 +2,7 @@
 ./DOCS/ABOUT.md
 ./DOCS/DOCS.md
 ./DOCS/CENZURA.md
-./DOCS/TODO.md
 ./DOCS/TOOLS.md
+./DOCS/TODO.md
 ./DOCS/STATUSY.md
 ./DOCS/FOOT.md
