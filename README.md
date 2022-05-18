@@ -13,35 +13,6 @@ Projekt badawczy mający na celu zrozumienie zasady działania cenzury w sieci, 
 
 ## Więcej informacji [<span style='font-size:20px;'>&#x270D;</span>](https://github.com/censura-pl/www/edit/main/DOCS/DOCS.md)
 
-Operator narodowy, 5G w Polsce:
-
-+ [Exatel jest przygotowany do roli operatora strategicznego 5G - Polska Agencja Prasowa SA](https://www.pap.pl/aktualnosci/news%2C980390%2Cexatel-jest-przygotowany-do-roli-operatora-strategicznego-5g.html)
-Założenia projektu #Polskie5G obejmuje budowę, operowanie oraz rozwój na terytorium Polski hurtowej infrastruktury technicznej dla sieci 5G zgodnie z trendem „network sharing” oraz przy założeniu:
-+ stworzenia wspólnej sieci dostępowej dla wszystkich operatorów korzystających z infrastruktury,
-+ zachowanie odrębności sieci rdzeniowej i warstwy usługowej,
-+ synergii częstotliwości dla operatorów obecnie posiadający częstotliwości dla technologii 2G/3G/4G. Pozwoli to na łączenie częstotliwości tych operatorów z częstotliwością operatora hurtowego 5G co ma zwiększyć konkurencję na rynku.
-+ [Exatel – narodowy operator 5G? - CyberDefence24](https://cyberdefence24.pl/polityka-i-prawo/exatelnarodowy-operator-5g)
-
-### Artykuły na temat bezpieczeństwa:
-
-+ [Wiemy jak rząd ocenzuruje internet i wiemy jak się przed tym bronić - Zaufana Trzecia Strona](https://zaufanatrzeciastrona.pl/post/wiemy-jak-rzad-ocenzuruje-internet-i-wiemy-jak-sie-przed-tym-bronic/)
-
-Rząd będzie zadowolony (przynajmniej początkowo), że zablokował, a internauci nie poczują w ogóle skutków blokady. A to dlatego, że aby ją ominąć, wystarczy:
-
-+ zmienić adresy serwerów DNS w systemie operacyjnym lub na ruterze (np. na serwery Google lub OpenDNS),
-+ skorzystać z dowolnego serwera proxy skonfigurowanego tak, by jego DNSy były poza Polską,
-+ użyć VPNa,
-+ użyć Tora,
-+ użyć lokalnego pliku hosts, zawierającego adresy IP domen z czarnej listy,
-+ użyć aplikacji innej niż przeglądarka, np. programu dostarczonego przez operatora serwisu hazardowego, który będzie miał zapisane na stałe adresy IP z którymi ma się łączyć.
-
-
-### Oficjalna lista stron www / domen znajduje się tutaj:
-
-+ [Rejestr Domen Ocenzurowanych](https://hazard.mf.gov.pl/)
-+ [Lista Domen ocenzurowanych](https://hole.cert.pl/domains/domains.txt)
-
-
 ### Cykl życia nazwy zarejestrowanej w domenie .pl
 
 + [DNS - Krajowy Rejestr Domen](https://www.dns.pl/cykl_zycia_domeny_pl)
@@ -72,6 +43,7 @@ Pojęcia użyte w schemacie:
 
 ## Cenzura w sieci [<span style='font-size:20px;'>&#x270D;</span>](https://github.com/censura-pl/www/edit/main/DOCS/CENZURA.md)
 
+
 ###  Zgłoszenia
 
 ## Zgłoszenia do CSIRT NASK
@@ -87,6 +59,11 @@ Zgłoszenia:
 
 
 ### Blokada domeny
+
++ [Rejestr Domen Ocenzurowanych](https://hazard.mf.gov.pl/)
++ [Lista Domen ocenzurowanych](https://hole.cert.pl/domains/domains.txt)
+
+### Informacje WHOIS
 
 Na stronie NASK odnośnie statusów jest zawarta informacja, iż te statusy nie są dostępne publicznie:
 
@@ -138,6 +115,40 @@ Ten ogólny stan opisu domeny może określać co najmniej te 5 poniższych moż
 Aktualnie to wszystko figuruje jako jeden status, dobrze by było znać kontekst blokady, dziś nie mamy pewności, kto złamał prawo, czy rejestrator, NASK, CERT, ABW, Exatel, itd...
 
 Stan techniczny domeny można samemu sprawdzić, ale intencja blokady jest znana tylko organizacji NASK i organizacji zlecającej blokadę.
+
+
+## Więcej informacji [<span style='font-size:20px;'>&#x270D;</span>](https://github.com/censura-pl/www/edit/main/DOCS/DOCS.md)
+
+### Operator narodowy, 5G w Polsce
+
++ [Exatel jest przygotowany do roli operatora strategicznego 5G - Polska Agencja Prasowa SA](https://www.pap.pl/aktualnosci/news%2C980390%2Cexatel-jest-przygotowany-do-roli-operatora-strategicznego-5g.html)
+Założenia projektu #Polskie5G obejmuje budowę, operowanie oraz rozwój na terytorium Polski hurtowej infrastruktury technicznej dla sieci 5G zgodnie z trendem „network sharing” oraz przy założeniu:
++ stworzenia wspólnej sieci dostępowej dla wszystkich operatorów korzystających z infrastruktury,
++ zachowanie odrębności sieci rdzeniowej i warstwy usługowej,
++ synergii częstotliwości dla operatorów obecnie posiadający częstotliwości dla technologii 2G/3G/4G. Pozwoli to na łączenie częstotliwości tych operatorów z częstotliwością operatora hurtowego 5G co ma zwiększyć konkurencję na rynku.
++ [Exatel – narodowy operator 5G? - CyberDefence24](https://cyberdefence24.pl/polityka-i-prawo/exatelnarodowy-operator-5g)
+
+
+## Bezpieczeństwo w sieci [<span style='font-size:20px;'>&#x270D;</span>](https://github.com/censura-pl/www/edit/main/DOCS/SECURITY.md)
+
+Artykuły na temat bezpieczeństwa:
+
++ [Wiemy jak rząd ocenzuruje internet i wiemy jak się przed tym bronić - Zaufana Trzecia Strona](https://zaufanatrzeciastrona.pl/post/wiemy-jak-rzad-ocenzuruje-internet-i-wiemy-jak-sie-przed-tym-bronic/)
+
+Rząd będzie zadowolony (przynajmniej początkowo), że zablokował, a internauci nie poczują w ogóle skutków blokady. A to dlatego, że aby ją ominąć, wystarczy:
+
++ zmienić adresy serwerów DNS w systemie operacyjnym lub na ruterze (np. na serwery Google lub OpenDNS),
++ skorzystać z dowolnego serwera proxy skonfigurowanego tak, by jego DNSy były poza Polską,
++ użyć VPNa,
++ użyć Tora,
++ użyć lokalnego pliku hosts, zawierającego adresy IP domen z czarnej listy,
++ użyć aplikacji innej niż przeglądarka, np. programu dostarczonego przez operatora serwisu hazardowego, który będzie miał zapisane na stałe adresy IP z którymi ma się łączyć.
+
+
++ [Cyberwojna to fakt. Jak zabezpieczyć przed nią polską infrastrukturę krytyczną? - infoWire.pl](https://infowire.pl/generic/release/744042/cyberwojna-to-fakt-jak-zabezpieczyc-przed-nia-polska-infrastrukture-krytyczna#:~:text=Tylko%20w%202020,in%C5%BC.%20Andrzej%20Bartosiewicz)
++ [Cyfrowy Skaut - Szkoła survivalu w cyberprzestrzeni](https://cyfrowyskaut.pl/)
++ [Cyberbezpieczeństwo](https://mcx.pl/produkty-i-uslugi/cyberbezpieczenstwo/)
++ [sekkura](https://sekkura.com.pl/)
 
 
 ## Przydatne Narzędzia [<span style='font-size:20px;'>&#x270D;</span>](https://github.com/censura-pl/www/edit/main/DOCS/TOOLS.md)
@@ -200,14 +211,6 @@ W fazie testowania są dwa projekty:
 + WHOISarch - odpłatne narzędzie z monitorowaniem i syngalizowaniem, pobierające WHOIS z wielu serwerów jednocześnie, kolejkowaniem list domen do sprawdze4nia
 Powstają kolejne następne do monitorowania infrastruktury publicznej i prywatnej
 
-
-
-## Bezpieczeństwo w sieci [<span style='font-size:20px;'>&#x270D;</span>](https://github.com/censura-pl/www/edit/main/DOCS/SECURITY.md)
-
-+ [Cyberwojna to fakt. Jak zabezpieczyć przed nią polską infrastrukturę krytyczną? - infoWire.pl](https://infowire.pl/generic/release/744042/cyberwojna-to-fakt-jak-zabezpieczyc-przed-nia-polska-infrastrukture-krytyczna#:~:text=Tylko%20w%202020,in%C5%BC.%20Andrzej%20Bartosiewicz)
-+ [Cyfrowy Skaut - Szkoła survivalu w cyberprzestrzeni](https://cyfrowyskaut.pl/)
-+ [Cyberbezpieczeństwo](https://mcx.pl/produkty-i-uslugi/cyberbezpieczenstwo/)
-+ [sekkura](https://sekkura.com.pl/)
 
 
 ## Statusy domen globalnych [<span style='font-size:20px;'>&#x270D;</span>](https://github.com/censura-pl/www/edit/main/DOCS/STATUSY.md)

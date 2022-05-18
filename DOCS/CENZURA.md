@@ -1,6 +1,7 @@
 
 ## Cenzura w sieci [<span style='font-size:20px;'>&#x270D;</span>](https://github.com/censura-pl/www/edit/main/DOCS/CENZURA.md)
 
+
 ###  Zgłoszenia
 
 ## Zgłoszenia do CSIRT NASK
@@ -16,6 +17,11 @@ Zgłoszenia:
 
 
 ### Blokada domeny
+
++ [Rejestr Domen Ocenzurowanych](https://hazard.mf.gov.pl/)
++ [Lista Domen ocenzurowanych](https://hole.cert.pl/domains/domains.txt)
+
+### Informacje WHOIS
 
 Na stronie NASK odnośnie statusów jest zawarta informacja, iż te statusy nie są dostępne publicznie:
 
