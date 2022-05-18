@@ -197,6 +197,10 @@ W fazie testowania są dwa projekty:
 Powstają kolejne następne do monitorowania infrastruktury publicznej i prywatnej
 
 
+
+## Bezpieczeństwo w sieci [<span style='font-size:20px;'>&#x270D;</span>](https://github.com/censura-pl/www/edit/main/DOCS/SECURITY.md)
+
++ [Cyberwojna to fakt. Jak zabezpieczyć przed nią polską infrastrukturę krytyczną? - infoWire.pl](https://infowire.pl/generic/release/744042/cyberwojna-to-fakt-jak-zabezpieczyc-przed-nia-polska-infrastrukture-krytyczna#:~:text=Tylko%20w%202020,in%C5%BC.%20Andrzej%20Bartosiewicz)
 ## Statusy domen globalnych [<span style='font-size:20px;'>&#x270D;</span>](https://github.com/censura-pl/www/edit/main/DOCS/STATUSY.md)
 
 Jak sprawdzić?
@@ -436,10 +440,6 @@ This status code tells your domain's registry to reject requests to update the d
 This domain name status indicates that it is not possible to update the domain, which can help prevent unauthorized updates resulting from fraud. If you do want to update your domain, you must first contact your registrar and request that they remove this status code.
 
 
-
-## Bezpieczeństwo w sieci [<span style='font-size:20px;'>&#x270D;</span>](https://github.com/censura-pl/www/edit/main/DOCS/SECURITY.md)
-
-+ [Cyberwojna to fakt. Jak zabezpieczyć przed nią polską infrastrukturę krytyczną? - infoWire.pl](https://infowire.pl/generic/release/744042/cyberwojna-to-fakt-jak-zabezpieczyc-przed-nia-polska-infrastrukture-krytyczna#:~:text=Tylko%20w%202020,in%C5%BC.%20Andrzej%20Bartosiewicz)
 
 ## Serwery WHOIS [<span style='font-size:20px;'>&#x270D;</span>](https://github.com/censura-pl/www/edit/main/DOCS/SERWERY_WHOIS.md)
 
