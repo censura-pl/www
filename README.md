@@ -130,7 +130,7 @@ Aktualnie to wszystko figuruje jako jeden status, dobrze by było znać kontekst
 Stan technicznczny domeny można samemu sprawdzić, ale intencja blokady jest znana tylko organizacji NASK
 
 
-## TOOLS [<span style='font-size:20px;'>&#x270D;</span>](https://github.com/censura-pl/www/edit/main/DOCS/TOOLS.md)
+## Przydatne Narzędzia [<span style='font-size:20px;'>&#x270D;</span>](https://github.com/censura-pl/www/edit/main/DOCS/TOOLS.md)
 
 
 ### DNS 
