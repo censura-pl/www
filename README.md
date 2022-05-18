@@ -180,7 +180,7 @@ W fazie testowania są dwa projekty:
 Powstają kolejne następne do monitorowania infrastruktury publicznej i prywatnej
 
 
-# Statusy domen globalnych [<span style='font-size:20px;'>&#x270D;</span>](https://github.com/censura-pl/www/edit/main/DOCS/STATUSY.md)
+## Statusy domen globalnych [<span style='font-size:20px;'>&#x270D;</span>](https://github.com/censura-pl/www/edit/main/DOCS/STATUSY.md)
 
 clientHold https://icann.org/epp#clientHold
 
