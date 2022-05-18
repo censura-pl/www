@@ -31,6 +31,10 @@ This method lets you discover information from the entire DNS space,
 but is less reliable as changes take longer to appear in your database,
 and won't recover information about domains that get little or no queries.
 
++ [CDNPerf - CDN Performance and Uptime monitoring, comparison and analytics - RUM data](https://www.cdnperf.com/)
++ [Network tests and benchmarks on-demand](https://perfops.net/network-tests-on-demand)
++ [Raw Logs of CDN and DNS benchmarks](https://perfops.net/raw-logs)
++ [perfops API - Swagger UI](https://api.perfops.net/api-docs/)
 
 
 ## Another Solutions
