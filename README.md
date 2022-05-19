@@ -115,7 +115,7 @@ NASK w ramach cenzury, czyli blokady bez wyroku sądu, nie tworzy nowego stanu/s
 
 Skąd mógłbym otrzymać precyzyjniejszą informację niż: "Trwa postępowanie wyjaśniające ..." ?
 
-Trudno określić co konkretnie może być to za wątpliwość, dlatego dobrze by było znać co ma na myśli NASK.
+Trudno określić co konkretnie ma na myśli "instytut badawczy" NASK.
 Ten ogólny opis stanu domeny może określać co najmniej te kilka poniższych możliwości: 
 
 1. Utrzymywanie domeny zostało wstrzymane do czasu wyjaśnienia wątpliwości dotyczących współpracy z jej abonentem,
