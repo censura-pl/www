@@ -81,3 +81,8 @@ Ten ogólny opis stanu domeny może określać co najmniej te kilka poniższych 
 Aktualnie to wszystko figuruje jako jeden status, dobrze by było znać kontekst blokady, dziś nie mamy pewności, kto złamał prawo, czy rejestrator, NASK, CERT, ABW, Exatel, itd...
 
 Stan techniczny domeny można samemu sprawdzić, ale intencja blokady jest znana tylko organizacji NASK i organizacji zlecającej blokadę.
+
+Druga istotna kwestia to data zdjęcia blokady o czym nie zawsze jesteśmy informowani, niektóre domeny mimo upłynięcia określonego czasu
+nadal pozostają zablokowane do rejestracji.
+
+Instytucja utrzymywana z pieniędzy podatników powinna co namniej być transparentna tak jak są podatnicy, którzy muszą się tłumaczyć każdemu urzędowi.
