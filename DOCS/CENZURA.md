@@ -41,7 +41,7 @@ Przykładowy **stan domeny** to:
 "Utrzymywanie domeny zostało wstrzymane do czasu wyjaśnienia wątpliwości dotyczących współpracy z jej abonentem, np. w przypadku zaległości płatniczych u rejestratora, braku aktualizacji danych abonenta (pomimo wezwania), wykorzystywania domeny do celów zagrażających bezpieczeństwu sieci."
 
 
-#### Rodzi się pytanie:
+#### Rodzą się niejasności i pytania:
 
 + Jak można odróżnić powód blokady z powodu płatności od blokady np. z powodu wyroku sądu?
 
@@ -52,22 +52,30 @@ Przykładowy **stan domeny** to:
 
 NASK w ramach cenzury, czyli blokady bez wyroku sądu, nie tworzy nowego stanu/statusu dostępnego publicznie
 
-#### Kto zna powód blokady domeny?
 
-Skąd mógłbym otrzymać precyzyjniejszą informację zamiast "Trwa postępowanie wyjaśniające ..." ?
+#### Kto zna rzeczywisty powód blokady domeny?
 
-Ten ogólny stan opisu domeny może określać co najmniej te 5 poniższych możliwości: 
+Skąd mógłbym otrzymać precyzyjniejszą informację niż: "Trwa postępowanie wyjaśniające ..." ?
+
+Trudno określić co konkretnie może być to za wątpliwość, dlatego dobrze by było znać co ma na myśli NASK.
+Ten ogólny opis stanu domeny może określać co najmniej te kilka poniższych możliwości: 
 
 1. Utrzymywanie domeny zostało wstrzymane do czasu wyjaśnienia wątpliwości dotyczących współpracy z jej abonentem,
+   + Wszystkie przypadki spoza listy poniżej
 
-2. Zaległość płatnicza
+2. Zaległość płatnicza wynikająca z umowy (domeny nie jest opłacona mimo zawarcia umowy),
 
 3. Blokada z powodu braku aktualizacji danych abonenta (pomimo wezwania),
 
 4. Wykorzystywania domeny do celów zagrażających bezpieczeństwu sieci
+   1. Sieci wewnętrznej konkretnej organizacji
+   2. Wszystkim użytkownikom internetu
+   3. Dystrybutorowi punktu dostępowego, zarządcy NASK
 
 5. Złamanie prawa i zablokowanie na skutek wyroku sądowego
-
+   + prawa autorskie, np. spór o nazwę domenę, wykorzystanie zarejestrowanej nazwy
+   + patenty
+   + działalność zabroniona w Polsce
 
 
 Aktualnie to wszystko figuruje jako jeden status, dobrze by było znać kontekst blokady, dziś nie mamy pewności, kto złamał prawo, czy rejestrator, NASK, CERT, ABW, Exatel, itd...
