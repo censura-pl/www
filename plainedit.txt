@@ -1,0 +1,8 @@
+lista plikow do kompilacji skryptów
+ktore beda zalaczane do readme.txt
+aasapolsk.pl.txt
+apropo.net.pl.txt
+aramis.net.pl.txt
+arcanummedica.com.pl.txt
+atut.info.pl.txt
+autostart.net.pl.txt

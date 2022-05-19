@@ -4,6 +4,20 @@
 
 ###  Zgłoszenia
 
+Jak są zgłaszane i blokowane strony www?
+Jak przebiega proces?
+Kto poza NASK może zablokować stronę?
+
+
+### Zgłoszenia przez organizacje, fundacje 
+
+W Polsce istnieją również fundacje "badające zjawiska" w celu ich zgłaszania,
+to dzięki nim mamy wyższy poziom cenzury, wyroki (nie-sądowe) zapadają na podstawie pojedynczych zgłoszeń.
+
+Z drugiej strony można po prostu informować o powiązaniach i nielegalnych działaniach
+jak przyjdzie odpowiedni moment trzeba dysponować danymi, dlatego ten projekt powstał ...
+
+
 ## Zgłoszenia do CSIRT NASK
 
 + [Zgłoś incydent - CERT.PL>_](https://incydent.cert.pl/#!/lang=pl)

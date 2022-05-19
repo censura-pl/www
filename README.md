@@ -11,6 +11,8 @@ Projekt badawczy mający na celu zrozumienie zasady działania cenzury w sieci, 
 + EXATEL, [Exatel – Wikipedia](https://pl.wikipedia.org/wiki/Exatel)
 
 
+
+
 ## Więcej informacji [<span style='font-size:20px;'>&#x270D;</span>](https://github.com/censura-pl/www/edit/main/DOCS/DOCS.md)
 
 ### Cykl życia nazwy zarejestrowanej w domenie .pl
@@ -45,6 +47,20 @@ Pojęcia użyte w schemacie:
 
 
 ###  Zgłoszenia
+
+Jak są zgłaszane i blokowane strony www?
+Jak przebiega proces?
+Kto poza NASK może zablokować stronę?
+
+
+### Zgłoszenia przez organizacje, fundacje 
+
+W Polsce istnieją również fundacje "badające zjawiska" w celu ich zgłaszania,
+to dzięki nim mamy wyższy poziom cenzury, wyroki (nie-sądowe) zapadają na podstawie pojedynczych zgłoszeń.
+
+Z drugiej strony można po prostu informować o powiązaniach i nielegalnych działaniach
+jak przyjdzie odpowiedni moment trzeba dysponować danymi, dlatego ten projekt powstał ...
+
 
 ## Zgłoszenia do CSIRT NASK
 
@@ -197,6 +213,9 @@ This method lets you discover information from the entire DNS space,
 but is less reliable as changes take longer to appear in your database,
 and won't recover information about domains that get little or no queries.
 
++ [Learn more about the team behind PerfOps](https://perfops.net/about-us)
++ [CDNPerf - CDN Benchmark - Worldwide multiple locations ping tool](https://www.cdnperf.com/tools/cdn-latency-benchmark)
++ [CDNPerf - CDN Performance and Uptime monitoring, comparison and analytics - RUM data](https://www.cdnperf.com/#!performance,Africa,2022-03-01)
 + [CDNPerf - CDN Performance and Uptime monitoring, comparison and analytics - RUM data](https://www.cdnperf.com/)
 + [Network tests and benchmarks on-demand](https://perfops.net/network-tests-on-demand)
 + [Raw Logs of CDN and DNS benchmarks](https://perfops.net/raw-logs)
