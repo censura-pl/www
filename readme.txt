@@ -1,5 +1,6 @@
 ./DOCS/ABOUT.md
 ./DOCS/CYKL.md
+../../grabwhois/www/DOCS/STATUSY_NASK.md
 ./DOCS/CENZURA.md
 ./DOCS/OPERATOR_NARODOWY.md
 ./DOCS/SECURITY.md
