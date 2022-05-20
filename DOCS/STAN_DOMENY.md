@@ -1,8 +1,6 @@
 
-## Cenzura w sieci [<span style='font-size:20px;'>&#x270D;</span>](https://github.com/censura-pl/www/edit/main/DOCS/CENZURA.md)
+## Stan domeny [<span style='font-size:20px;'>&#x270D;</span>](https://github.com/censura-pl/www/edit/main/DOCS/STAN_DOMENY.md)
 
-
-### Statusy domen
 
 Na stronie NASK napisano, że statusy domen nie są dostępne publicznie:
 

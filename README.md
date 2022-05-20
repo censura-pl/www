@@ -101,10 +101,8 @@ Zgłoszenia:
 
 
 
-## Cenzura w sieci [<span style='font-size:20px;'>&#x270D;</span>](https://github.com/censura-pl/www/edit/main/DOCS/CENZURA.md)
+## Stan domeny [<span style='font-size:20px;'>&#x270D;</span>](https://github.com/censura-pl/www/edit/main/DOCS/STAN_DOMENY.md)
 
-
-### Statusy domen
 
 Na stronie NASK napisano, że statusy domen nie są dostępne publicznie:
 
@@ -262,7 +260,7 @@ and won't recover information about domains that get little or no queries.
 
 ### Zawartość strony
 
-+ Aktulane informacje o skali problemu
++ Aktualne informacje o skali problemu
 + Wywiady z firmami rejestrującymi domeny na temat kontroli i problemów
 + Pytania do organizacji stosujących cenzurę 
 + Pytania do organizacji/osób, które są ofiarami tych działań 
@@ -270,7 +268,7 @@ and won't recover information about domains that get little or no queries.
 ### Narzędzia
 
 W fazie testowania są dwa projekty:
-+ grabWHOIS - bezpłatne narzedzie do pobierania danych WHOIS domeny
++ grabWHOIS - bezpłatne narzędzie do pobierania danych WHOIS domeny
 + WHOISarch - odpłatne narzędzie z monitorowaniem i syngalizowaniem, pobierające WHOIS z wielu serwerów jednocześnie, kolejkowaniem list domen do sprawdze4nia
 Powstają kolejne następne do monitorowania infrastruktury publicznej i prywatnej
 
