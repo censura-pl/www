@@ -67,4 +67,4 @@ Stan techniczny domeny można samemu sprawdzić, ale intencja blokady jest znana
 Druga istotna kwestia to data zdjęcia blokady o czym nie zawsze jesteśmy informowani, niektóre domeny mimo upłynięcia określonego czasu
 nadal pozostają zablokowane do rejestracji.
 
-Instytucja utrzymywana z pieniędzy podatników powinna co namniej być transparentna tak jak są podatnicy, którzy muszą się tłumaczyć każdemu urzędowi.
+Instytucja utrzymywana z pieniędzy podatników powinna być transparentna.
