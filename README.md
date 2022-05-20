@@ -10,6 +10,8 @@ Projekt badawczy mający na celu zrozumienie zasady działania cenzury w sieci, 
 + CERT, [CERT Polska – Wikipedia](https://pl.wikipedia.org/wiki/CERT_Polska)
 + EXATEL, [Exatel – Wikipedia](https://pl.wikipedia.org/wiki/Exatel)
 
+W chwili obecnej trwają badania nad możliwymi nadużyciami ze strony rządowych instytucji odnośnie blokowania domen internetowych.
+
 
 
 
