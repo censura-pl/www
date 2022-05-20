@@ -99,9 +99,14 @@ Zgłoszenia:
 + [Rejestr Domen Ocenzurowanych](https://hazard.mf.gov.pl/)
 + [Lista Domen ocenzurowanych](https://hole.cert.pl/domains/domains.txt)
 
-### Informacje WHOIS
 
-Na stronie NASK odnośnie statusów jest zawarta informacja, iż te statusy nie są dostępne publicznie:
+
+## Cenzura w sieci [<span style='font-size:20px;'>&#x270D;</span>](https://github.com/censura-pl/www/edit/main/DOCS/CENZURA.md)
+
+
+### Statusy domen
+
+Na stronie NASK napisano, że statusy domen nie są dostępne publicznie:
 
 "Dozwolone operacje Uwaga! Właściwości domen mogą zostać zmodyfikowane poprzez nałożenie na nie statusów. 
 Statusy powiązane z domenami nie są widoczne w bazie WHOIS."
@@ -114,7 +119,8 @@ Przykładowy **stan domeny** to:
 
 **"Trwa postępowanie wyjaśniające [REGISTERED, ze statusem clientHold/serverHold]"**
 
-#### wyjaśnienie NASK:
+
+#### Wyjaśnienie stanu zablokowanej domeny przez NASK:
 
 "Utrzymywanie domeny zostało wstrzymane do czasu wyjaśnienia wątpliwości dotyczących współpracy z jej abonentem, np. w przypadku zaległości płatniczych u rejestratora, braku aktualizacji danych abonenta (pomimo wezwania), wykorzystywania domeny do celów zagrażających bezpieczeństwu sieci."
 
@@ -201,18 +207,28 @@ Rząd będzie zadowolony (przynajmniej początkowo), że zablokował, a internau
 + [sekkura](https://sekkura.com.pl/)
 
 
-## Przydatne Narzędzia [<span style='font-size:20px;'>&#x270D;</span>](https://github.com/censura-pl/www/edit/main/DOCS/TOOLS.md)
+## TOOLS [<span style='font-size:20px;'>&#x270D;</span>](https://github.com/grabWHOIS/www/edit/main/DOCS/TOOLS.md)
 
-
-### DNS 
+### WHOIS
 
 Jak sprawdzić status domeny i dane abonenta?
 + [DNS - Krajowy Rejestr Domen](https://www.dns.pl/whois)
 
+Jak sprawdzić hurtowo setki, tysiące domen?
++ [Domain Whois Search - Whois lookup - GetWhois.com](http://getwhois.com/)
++ [getWHOIS](https://getwhois.io/softreck.com#)
+
+
+### DELETED DOMAINS
+
 Globalna Lista usuniętych domen
+
 + [Deleted Domains (last 7 days) » ExpiredDomains.net](https://member.expireddomains.net/domains/combinedexpired/?o=statustld_registered&r=d&ftlds[]=196&flimit=200&fwordpl=1#listing)
 
 + [ WHOIS, DNS, & Domain Info - DomainTools](https://whois.domaintools.com/example.pl)
+
+
+### Reverse IP
 
 + [ Reverse NS Lookup - DomainTools](https://reversens.domaintools.com/search/?q=)
 
@@ -240,12 +256,6 @@ and won't recover information about domains that get little or no queries.
 + [Network tests and benchmarks on-demand](https://perfops.net/network-tests-on-demand)
 + [Raw Logs of CDN and DNS benchmarks](https://perfops.net/raw-logs)
 + [perfops API - Swagger UI](https://api.perfops.net/api-docs/)
-
-
-## Another Solutions
-
-+ [Domain Whois Search - Whois lookup - GetWhois.com](http://getwhois.com/)
-+ [getWHOIS](https://getwhois.io/softreck.com#)
 
 
 ## Planowane zmiany [<span style='font-size:20px;'>&#x270D;</span>](https://github.com/censura-pl/www/edit/main/DOCS/TODO.md)

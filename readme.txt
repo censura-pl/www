@@ -2,10 +2,11 @@
 ./DOCS/CYKL.md
 ../../grabwhois/www/DOCS/STATUSY_NASK.md
 ./DOCS/CENZURA.md
+./DOCS/STAN_DOMENY.md
 ./DOCS/OPERATOR_NARODOWY.md
 ./DOCS/SECURITY.md
-./DOCS/TOOLS.md
+../../grabwhois/www/DOCS/TOOLS.md
 ./DOCS/TODO.md
-./DOCS/STATUSY.md
-./DOCS/SERWERY_WHOIS.md
+../../grabwhois/www/DOCS/STATUSY.md
+../../grabwhois/www/DOCS/SERWERY_WHOIS.md
 ./DOCS/FOOT.md
