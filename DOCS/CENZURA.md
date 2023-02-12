@@ -17,6 +17,16 @@ to dzięki nim mamy wyższy poziom cenzury, wyroki (nie-sądowe) zapadają na po
 Z drugiej strony można po prostu informować o powiązaniach i nielegalnych działaniach
 jak przyjdzie odpowiedni moment trzeba dysponować danymi, dlatego ten projekt powstał ...
 
+## Prawo 
+
+[Jak działa cenzura z art. 180 ustawy Prawo Telekomunikacyjne - blog ojciec & dyrektor](https://www.salon24.pl/u/beta/1282921,jak-dziala-cenzura-z-art-180-ustawy-prawo-telekomunikacyjne)
+
+> [Prawo telekomunikacyjne. Art. 180.1](https://lexlege.pl/prawo-telekomunikacyjne/art-180/) _Przedsiębiorca telekomunikacyjny jest obowiązany do niezwłocznego blokowania połączeń telekomunikacyjnych lub przekazów informacji, na żądanie **uprawnionych podmiotów**, jeżeli połączenia te mogą zagrażać obronności, bezpieczeństwu państwa oraz bezpieczeństwu i porządkowi publicznemu, albo do umożliwienia dokonania takiej blokady przez te podmioty._  
+> 
+> Polecam na początek obejrzeć [zeszłoroczny vlog Łukasza Warzechy (od 45:47)](https://www.youtube.com/watch?v=KGvNkFRf1FQ&t=2747s), który wyjaśnia ustawę Prawo Telekomunikacyjne i art. 180 użyty za PiS do cenzury stron internetowych. Ja się skupię jedynie na sprawach technicznych.
+> 
+> Od czasu wymuszenia przez Google przejścia na szyfrowany protokół https, możliwość podglądania ruchu internetowego została mocno ograniczona. Ruch pomiędzy komputerem użytkownika a stroną internetową jest szyfrowany. Urządzenia pośredniczące w ruchu internetowym, zaczynając od domowego routera (czy access pointa) przez wszystkie urządzenia pośrednie, na ostatnim "pudełku", do którego wpięty jest serwer kończąc, nie widzą co jest przesyłane.
+
 
 ## Zgłoszenia do CSIRT NASK
 
