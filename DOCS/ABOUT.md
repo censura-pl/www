@@ -12,3 +12,5 @@ Projekt badawczy mający na celu zrozumienie zasady działania cenzury w sieci, 
 W chwili obecnej trwają badania nad możliwymi nadużyciami ze strony rządowych instytucji odnośnie blokowania domen internetowych.
 
 
+
+Prowadzenie rejestru IP/domen/adresów stron zakazanych, blokowanie treści i całych witryn bez wyroku sądu przez instytucje Państwa, kłóci się z podstwowywmi prawami suwerena zapisanymi w konstytucji. NASK łamie punkt drugi Art 54. Cenzura prewencyjna środków społecznego przekazu oraz koncesjonowanie prasy są zakazane.  https://sip.lex.pl/akty-prawne/dzu-dziennik-ustaw/konstytucja-rzeczypospolitej-polskiej-16798613/art-54
